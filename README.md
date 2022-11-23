@@ -1,7 +1,7 @@
 # fromThing
 get from: token from string
 
-I am not sure I understood the problem exactly as this seemed to be too easy to be what you where actually asking for. But it was fun.
+I am not sure I understood the problem exactly, as this seemed to be too easy to be what you where actually asking for. But it was fun.
 
 
 ```
